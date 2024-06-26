@@ -1,0 +1,19 @@
+/* Layout Styling */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+/* Text Styling */
+
+/* Icon Styling */
+.navlogo {
+  filter: brightness(1.2);
+}
+
+/* .blurr {
+  background:rgba(0, 119, 238, 0.604);
+  backdrop-filter: blur(5px);
+} */
